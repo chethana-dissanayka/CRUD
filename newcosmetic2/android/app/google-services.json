@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "205960701896",
+    "project_id": "ecommers01-3d60a",
+    "storage_bucket": "ecommers01-3d60a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205960701896:android:18928559d5900ac48142fd",
+        "android_client_info": {
+          "package_name": "com.example.appecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCd7N1gtMvuGxKac0WymFWNbX0mPqgis8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205960701896:android:a99315583e1c79338142fd",
+        "android_client_info": {
+          "package_name": "com.example.newcosmetic2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCd7N1gtMvuGxKac0WymFWNbX0mPqgis8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

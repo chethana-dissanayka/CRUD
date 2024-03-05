@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1065605673572-01t2kkcjrq8qif3s67alp9cu3ru0fqqt.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1065605673572-01t2kkcjrq8qif3s67alp9cu3ru0fqqt</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1065605673572-bj7rv2amf2b5f31aptajoqp8e07gkqnf.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBWGavnF5K5px_UsP0p-Jr5r2ClOf55VUk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1065605673572</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.newcosmetic2</string>
+	<key>PROJECT_ID</key>
+	<string>cosmetic-f85b5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cosmetic-f85b5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1065605673572:ios:6c044771f2287ef6bbe571</string>
+	<key>DATABASE_URL</key>
+	<string>https://cosmetic-f85b5-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
